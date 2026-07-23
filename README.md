@@ -1,1 +1,1 @@
-Three-page responsive website built with pure HTML and CSS to showcase personal background, community involvement, resume information, and professional links. Designed custom page layouts, navigation design, and responsive formatting without templates or external libraries.
+Three-page responsive website built with pure HTML and CSS to showcase personal background, projects, community involvement, experience, and useful links. Designed custom page layouts, navigation design, and responsive formatting without templates or external libraries.
