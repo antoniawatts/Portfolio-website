@@ -1,2 +1,1 @@
-# Portfolio-website
-My portfolio website that contains all useful professional links and information about my experience and projects.
+Three-page responsive website built with pure HTML and CSS to showcase personal background, community involvement, resume information, and professional links. Designed custom page layouts, navigation design, and responsive formatting without templates or external libraries.
